@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  - Mortgage-Calculator            |  -             | https://github.com/CalyGit/Mortgage-Calculator       |
-| 2 |  - Billing-Calculator            |  -             | https://github.com/CalyGit/Billing-Calculator       |
-| 3 |  - Caesar-Cipher-decryption            |  -             | https://github.com/CalyGit/Caesar-Cipher-decryption       |
+| 1 |  - Mortgage-Calculator            |  - This is a Jupyter notebook that calculates monthly mortgage payments and the total amount payable for a given principal, interest rate, and mortgage term.            | https://github.com/CalyGit/Mortgage-Calculator       |
+| 2 |  - Billing-Calculator            |  - This is a simple python code for hotel bill calculator            | https://github.com/CalyGit/Billing-Calculator       |
+| 3 |  - Caesar-Cipher-decryption            |  - This is a Jupyter Notebook for decrypting messages encrypted using the Caesar cipher. The Caesar cipher is a simple substitution cipher where each letter in the plaintext is shifted by a fixed number of positions in the alphabet.            | https://github.com/CalyGit/Caesar-Cipher-decryption       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
