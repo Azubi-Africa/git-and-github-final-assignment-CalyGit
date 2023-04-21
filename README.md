@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  - Mortgage-Calculator            |  -             | https://github.com/CalyGit/Mortgage-Calculator       |
+| 2 |  - Billing-Calculator            |  -             | https://github.com/CalyGit/Billing-Calculator       |
+| 3 |  - Caesar-Cipher-decryption            |  -             | https://github.com/CalyGit/Caesar-Cipher-decryption       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
